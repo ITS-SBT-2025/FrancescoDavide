@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-    "scripts": {
-    "prod":"node index.js",
+  "scripts": {
+    "prod": "node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ITS-SBT-2025/FrancescoDavide#readme",
   "dependencies": {
+    "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }
 }
